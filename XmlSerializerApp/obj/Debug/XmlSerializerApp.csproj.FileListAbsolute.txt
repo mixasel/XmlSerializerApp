@@ -1,0 +1,15 @@
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\bin\Debug\XmlSerializerApp.exe.config
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\bin\Debug\XmlSerializerApp.exe
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\bin\Debug\XmlSerializerApp.pdb
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp.csprojAssemblyReference.cache
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\MainWindow.g.cs
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\App.g.cs
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp_MarkupCompile.cache
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp_MarkupCompile.lref
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\MainWindow.baml
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp.g.resources
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp.Properties.Resources.resources
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp.csproj.GenerateResource.cache
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp.csproj.CoreCompileInputs.cache
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp.exe
+C:\Users\nikse\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\XmlSerializerApp.pdb
